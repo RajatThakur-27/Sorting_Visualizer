@@ -1,9 +1,3 @@
-/*
-    *****************
-    DONE BY:-  Aniket
-    
-    *****************
-*/
 
 function Selection_sort()
 {
@@ -58,10 +52,3 @@ function Selection_sort()
 
     enable_buttons();
 }
-
-/*
-    *****************
-    DONE BY:-  Aniket
-    
-    *****************
-*/
